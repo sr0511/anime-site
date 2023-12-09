@@ -1,0 +1,28 @@
+body{
+    background-color: #002B5B;
+    background-size: 100%;
+    
+}
+
+h1{
+   color: white;
+   text-align: center;
+   padding-top: 50px;
+}
+
+.container{
+    padding: 70px;
+}
+
+img:hover{
+    filter: brightness(115%);
+
+}
+
+.card:hover{
+    font-size: 1.15rem;
+}
+
+.card-body{
+    text-align: center;
+}

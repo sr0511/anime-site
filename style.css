@@ -1,0 +1,60 @@
+
+.navho{
+    background: url("anime\ room.jpg");
+    background-size: 1400px 600px;
+    color: white;
+}
+
+#home{
+    text-align: center;
+    padding: 60px 150px 250px;
+}
+
+#about{
+    text-align: center;
+    padding: 100px 150px 0px;
+}
+
+.col-md-6{
+    padding: 100px;
+}
+
+#link{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #002B5B;
+    color: white;
+}
+
+.link-image{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+
+.row-link{
+    padding: 0px 50px 50px;
+}
+
+.col-link{
+    padding: 30px 30px 0px;
+}
+
+.a{
+    color: white;
+    font-size: 1.5rem;
+}
+
+.a:hover{
+    color: white;
+}
+
+
+#footer{
+    text-align: center;
+    padding: 60px 100px 20px;
+}
+
+.fa{
+    margin: 10px;
+}
